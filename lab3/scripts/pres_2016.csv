@@ -4,7 +4,7 @@ year,state,party,percent_vote,election_lean,
 2016,Arizona,R,48.67,48.67
 2016,Arkansas,R,60.57,39.43
 2016,California,D,61.73,61.73
-2016,Colorado,D,48.16,48.16
+2016,Colorado,D,48.16,51.84
 2016,Connecticut,D,54.57,54.57
 2016,Delaware,D,53.35,53.35
 2016,District of Columbia,D,90.48,90.48
@@ -18,19 +18,19 @@ year,state,party,percent_vote,election_lean,
 2016,Kansas,R,56.65,43.35
 2016,Kentucky,R,62.52,37.48
 2016,Louisiana,R,58.09,41.91
-2016,Maine,D,46.35,46.35
+2016,Maine,D,46.35,53.65
 2016,Maryland,D,60.33,60.33
 2016,Massachusetts,D,59.05,59.05
 2016,Michigan,R,47.5,47.5
-2016,Minnesota,D,46.45,46.45
+2016,Minnesota,D,46.45,53.55
 2016,Mississippi,R,57.94,42.06
 2016,Missouri,R,56.77,43.23
 2016,Montana,R,56.47,43.53
 2016,Nebraska,R,58.75,41.25
-2016,Nevada,D,47.92,47.92
-2016,New Hampshire,D,46.83,46.83
+2016,Nevada,D,47.92,52.08
+2016,New Hampshire,D,46.83,53.17
 2016,New Jersey,D,55.45,55.45
-2016,New Mexico,D,48.26,48.26
+2016,New Mexico,D,48.26,51.74
 2016,New York,D,56.14,56.14
 2016,North Carolina,R,49.83,49.83
 2016,North Dakota,R,62.96,37.04
@@ -45,7 +45,7 @@ year,state,party,percent_vote,election_lean,
 2016,Texas,R,52.23,47.77
 2016,Utah,R,45.54,45.54
 2016,Vermont,D,55.72,55.72
-2016,Virginia,D,49.75,49.75
+2016,Virginia,D,49.75,50.25
 2016,Washington,D,52.54,52.54
 2016,West Virginia,R,68.63,31.37
 2016,Wisconsin,R,47.22,47.22

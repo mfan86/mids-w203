@@ -20,8 +20,8 @@ with open("pres.csv","r") as csvfile:
         percent_vote = round(float(row[10])/float(row[11])*100,2)
         #election lean is a continous variable that changes our poltical voting to a single interval 0-50 for R 50-100 for D, 
         election_lean = percent_vote
-        if party == "D" and percent_vote > 50.0:
-            election_lean = percent_vote
+        if party == "D" and percent_vote < 50.0:
+            election_lean = round(100.0 - percent_vote,2)
         elif party == "R" and percent_vote > 50.0:
             election_lean = round(100.0 - percent_vote,2)
         if row[1] not in states:
