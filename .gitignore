@@ -1,4 +1,5 @@
 *.swp
+*.numbers
 .DS_Store
 env/
 venv/
