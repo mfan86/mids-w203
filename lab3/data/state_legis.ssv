@@ -1,0 +1,51 @@
+STATE TotalSeats TotalSenate SenateDem SenateRep SenateOther TotalHouse HouseDem HouseRep HouseOther LegisControl GovParty StateControl
+Alabama 140 35 8 27 105 28 77 Rep Rep Rep
+Alaska 60 20 7 13 40 15 23 2 Rep Rep Rep
+Arizona 90 30 13 17 60 29 31 Rep Rep Rep
+Arkansas 135 35 9 26 100 24 76 Rep Rep Rep
+California 120 40 29 10 1v 80 61 18 1 Dem Dem Dem
+Colorado 100 35 19 16 65 41 24 Dem Dem Dem
+Connecticut 187 36 22 14 151 91 60 Dem Dem Dem
+Delaware 62 21 12 9 41 26 15 Dem Dem Dem
+Florida 160 40 17 23 120 47 73 Rep Rep Rep
+Georgia 236 56 21 35 180 75 105 Rep Rep Rep
+Hawaii 76 25 24 1 51 46 5 Dem Dem Dem
+Idaho 105 35 7 28 70 14 56 Rep Rep Rep
+Illinois 177 59 40 19 118 74 44 Dem Dem Dem
+Indiana 150 50 10 40 100 33 67 Rep Rep Rep
+Iowa 150 50 18 32 100 47 53 Rep Rep Rep
+Kansas 165 40 11 28 1 125 41 84 Rep Dem Divided
+Kentucky 138 38 9 29 100 38 62 Rep Dem Divided
+Louisiana 144 39 12 27 105 35 68 2 Rep Dem Divided
+Maine 186 35 21 14 151 88 57 5,1v Dem Dem Dem
+Maryland 188 47 32 15 141 98 42 1v Dem Rep Divided
+Massachusetts 200 40 34 4 2v 160 126 31 1,2v Dem Rep Divided
+Michigan 148 38 16 22 110 52 58 Rep Dem Divided
+Minnesota 201 67 32 35 134 75 59 Divided Dem Divided
+Mississippi 174 52 16 36 122 46 74 1, 1v Rep Rep Rep
+Missouri 197 34 8 23 3v 163 48 114 1v Rep Rep Rep
+Montana 150 50 20 30 100 42 57 1v Rep Dem Divided
+Nebraska 49 49 49 N/A Rep N/A
+Nevada 63 21 13 8 42 28 13 1v Dem Dem Dem
+"New Hampshire" 424 24 14 10 400 234 162 1, 3v Dem Rep Divided
+"New Jersey" 120 40 25 15 80 52 28 Dem Dem Dem
+"New Mexico" 112 42 26 16 70 46 24 Dem Dem Dem
+"New York" 213 63 40 22 1v 150 104 42 1,3v Dem Dem Dem
+"North Carolina" 170 50 21 29 120 55 65 Rep Dem Divided
+"North Dakota" 141 47 10 37 94 15 78 1v Rep Rep Rep
+Ohio 132 33 9 24 99 38 61 Rep Rep Rep
+Oklahoma 149 48 9 38 1v 101 23 77 1v Rep Rep Rep
+Oregon 90 30 18 12 60 37 22 1v Dem Dem Dem
+Pennsylvania 253 50 21 28 1 203 93 110 Rep Dem Divided
+"Rhode Island" 113 38 33 5 75 66 9 Dem Dem Dem
+"South Carolina" 170 46 19 27 124 44 80 Rep Rep Rep
+"South Dakota" 105 35 5 30 70 11 59 Rep Rep Rep
+Tennessee 132 33 5 28 99 26 73 Rep Rep Rep
+Texas 181 31 12 19 150 66 84 Rep Rep Rep
+Utah 104 29 6 23 75 16 59 Rep Rep Rep
+Vermont 180 30 22 6 2 150 94 43 12, 1v Dem Rep Divided
+Virginia 140 40 21 19 100 55 45 Dem Dem Dem
+Washington 147 49 29 20 98 57 41 Dem Dem Dem
+"West Virginia" 134 34 14 20 100 41 58 1 Rep Rep Rep
+Wisconsin 132 33 14 19 99 36 63 Rep Dem Divided
+Wyoming 90 30 3 27 60 9 50 1 Rep Rep Rep

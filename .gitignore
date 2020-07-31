@@ -4,8 +4,6 @@
 env/
 venv/
 tmp/
-data/
-
 
 
 # Byte-compiled / optimized / DLL files
